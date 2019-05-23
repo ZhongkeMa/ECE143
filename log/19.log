@@ -1,0 +1,56 @@
+var links = document.getElementsByTagName('a');
+var all_links =  Array.prototype.slice.call(links);
+all_links.forEach(function(val){
+    console.log(val.href);
+});
+common-libs.ef23ff10d.js:149 https://leetcode.com/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe/
+common-libs.ef23ff10d.js:149 https://leetcode.com/explore/
+common-libs.ef23ff10d.js:149 https://leetcode.com/problemset/all/
+common-libs.ef23ff10d.js:149 https://leetcode.com/interview/
+common-libs.ef23ff10d.js:149 https://leetcode.com/contest/
+common-libs.ef23ff10d.js:149 https://leetcode.com/articles/
+common-libs.ef23ff10d.js:149 https://leetcode.com/discuss/
+common-libs.ef23ff10d.js:149 https://leetcode.com/playground/
+common-libs.ef23ff10d.js:149 https://leetcode.com/tag/graph/#
+common-libs.ef23ff10d.js:149 https://leetcode.com/store/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe/
+common-libs.ef23ff10d.js:149 https://leetcode.com/book/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/clone-graph
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/course-schedule
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/course-schedule-ii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/graph-valid-tree
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/alien-dictionary
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/minimum-height-trees
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/reconstruct-itinerary
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/evaluate-division
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/sequence-reconstruction
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/redundant-connection
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/redundant-connection-ii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/network-delay-time
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/couples-holding-hands
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/is-graph-bipartite
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/find-eventual-safe-states
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/similar-string-groups
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/keys-and-rooms
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/k-similar-strings
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/minimize-malware-spread-ii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/regions-cut-by-slashes
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/satisfiability-of-equality-equations
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/number-of-squareful-arrays
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/find-the-town-judge
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/flower-planting-with-no-adjacent
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/partition-array-for-maximum-sum
+common-libs.ef23ff10d.js:149 https://leetcode.com/support/
+common-libs.ef23ff10d.js:149 https://leetcode.com/jobs/
+common-libs.ef23ff10d.js:149 https://leetcode.com/bugbounty/
+common-libs.ef23ff10d.js:149 https://leetcode.com/terms/
+common-libs.ef23ff10d.js:149 https://leetcode.com/privacy/
+common-libs.ef23ff10d.js:149 https://leetcode.com/region/
+common-libs.ef23ff10d.js:149 mailto:billing@leetcode.com?subject=Billing%20Issue&body=Name:%0D%0A%0D%0AUsername:%0D%0A%0D%0AMessage:%0D%0A%0D%0A
+common-libs.ef23ff10d.js:149 mailto:support@leetcode.com?subject=General%20Support&body=Name:%0D%0A%0D%0AUsername:%0D%0A%0D%0AMessage:%0D%0A%0D%0A
+common-libs.ef23ff10d.js:149 mailto:feedback@leetcode.com?subject=Other%20Inquiries&body=Name:%0D%0A%0D%0AUsername:%0D%0A%0D%0AMessage:%0D%0A%0D%0A
+undefined

@@ -1,0 +1,59 @@
+var links = document.getElementsByTagName('a');
+var all_links =  Array.prototype.slice.call(links);
+all_links.forEach(function(val){
+    console.log(val.href);
+});
+common-libs.ef23ff10d.js:149 https://leetcode.com/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe/
+common-libs.ef23ff10d.js:149 https://leetcode.com/explore/
+common-libs.ef23ff10d.js:149 https://leetcode.com/problemset/all/
+common-libs.ef23ff10d.js:149 https://leetcode.com/interview/
+common-libs.ef23ff10d.js:149 https://leetcode.com/contest/
+common-libs.ef23ff10d.js:149 https://leetcode.com/articles/
+common-libs.ef23ff10d.js:149 https://leetcode.com/discuss/
+common-libs.ef23ff10d.js:149 https://leetcode.com/playground/
+common-libs.ef23ff10d.js:149 https://leetcode.com/tag/sort/#
+common-libs.ef23ff10d.js:149 https://leetcode.com/store/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe/
+common-libs.ef23ff10d.js:149 https://leetcode.com/book/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe/
+common-libs.ef23ff10d.js:149 https://leetcode.com/subscribe
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/merge-intervals
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/insert-interval
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/sort-colors
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/insertion-sort-list
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/sort-list
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/maximum-gap
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/largest-number
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/contains-duplicate-iii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/valid-anagram
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/meeting-rooms
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/meeting-rooms-ii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/h-index
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/wiggle-sort
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/best-meeting-point
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/count-of-smaller-numbers-after-self
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/wiggle-sort-ii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/count-of-range-sum
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/intersection-of-two-arrays
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/intersection-of-two-arrays-ii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/reverse-pairs
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/longest-word-in-dictionary-through-deleting
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/word-abbreviation
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/reorganize-string
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/random-pick-with-blacklist
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/sort-array-by-parity-ii
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/pancake-sorting
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/k-closest-points-to-origin
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/largest-perimeter-triangle
+common-libs.ef23ff10d.js:149 https://leetcode.com/problems/matrix-cells-in-distance-order
+common-libs.ef23ff10d.js:149 https://leetcode.com/support/
+common-libs.ef23ff10d.js:149 https://leetcode.com/jobs/
+common-libs.ef23ff10d.js:149 https://leetcode.com/bugbounty/
+common-libs.ef23ff10d.js:149 https://leetcode.com/terms/
+common-libs.ef23ff10d.js:149 https://leetcode.com/privacy/
+common-libs.ef23ff10d.js:149 https://leetcode.com/region/
+common-libs.ef23ff10d.js:149 mailto:billing@leetcode.com?subject=Billing%20Issue&body=Name:%0D%0A%0D%0AUsername:%0D%0A%0D%0AMessage:%0D%0A%0D%0A
+common-libs.ef23ff10d.js:149 mailto:support@leetcode.com?subject=General%20Support&body=Name:%0D%0A%0D%0AUsername:%0D%0A%0D%0AMessage:%0D%0A%0D%0A
+common-libs.ef23ff10d.js:149 mailto:feedback@leetcode.com?subject=Other%20Inquiries&body=Name:%0D%0A%0D%0AUsername:%0D%0A%0D%0AMessage:%0D%0A%0D%0A
+undefined
