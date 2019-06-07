@@ -1,0 +1,43 @@
+class Solution {
+public:
+    void dfs(vector<vector<int>> &grid, int i, int j, int base) {
+        grid[i][j] = 0;
+        int rows = grid.size();
+        int cols = grid[0].size();
+        if(i+1<rows && grid[i+1][j] == base)
+            dfs(grid, i+1, j, base);
+        if(j+1<cols && grid[i][j+1] == base)
+            dfs(grid, i, j+1, base);
+        if(i-1>=0 && grid[i-1][j] == base)
+            dfs(grid, i-1, j, base);
+        if(j-1>=0 && grid[i][j-1] == base)
+            dfs(grid, i, j-1, base);
+    }
+
+    vector<vector<int>> colorBorder(vector<vector<int>>& grid, int r0, int c0, int color) {
+        vector<vector<int>> res = grid;
+        int base = grid[r0][c0];
+        dfs(grid, r0, c0, base);
+        int rows = grid.size(); 
+        int cols = grid[0].size();
+        for(int i = 0; i<rows; i++) {
+            for(int j = 0; j < cols; j++) {
+                if(grid[i][j] == 0) {
+                    if(i == 0 || j == 0 || i == rows - 1 || j == cols - 1)
+                        res[i][j] = color;
+                    if(i+1<rows && grid[i+1][j] != 0)
+                        res[i][j] = color;
+                    if(j+1<cols && grid[i][j+1] != 0)
+                        res[i][j] = color;
+                    if(i-1>= 0 && grid[i-1][j] != 0)
+                        res[i][j] = color;
+                    if(j-1>=0 && grid[i][j-1] != 0)
+                        res[i][j] = color;
+                }
+            }
+        }
+        return res;
+        
+    }
+    
+};
