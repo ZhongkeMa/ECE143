@@ -1,0 +1,3811 @@
+{
+  "two-sum": [
+    "Array",
+    "HashTable"
+  ],
+  "median-of-two-sorted-arrays": [
+    "Array",
+    "BinarySearch",
+    "DivideandConquer"
+  ],
+  "container-with-most-water": [
+    "Array",
+    "TwoPointers"
+  ],
+  "3sum": [
+    "Array",
+    "TwoPointers"
+  ],
+  "3sum-closest": [
+    "Array",
+    "TwoPointers"
+  ],
+  "4sum": [
+    "Array",
+    "HashTable",
+    "TwoPointers"
+  ],
+  "remove-duplicates-from-sorted-array": [
+    "Array",
+    "TwoPointers"
+  ],
+  "remove-element": [
+    "Array",
+    "TwoPointers"
+  ],
+  "next-permutation": [
+    "Array"
+  ],
+  "longest-valid-parentheses": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "search-in-rotated-sorted-array": [
+    "Array",
+    "BinarySearch"
+  ],
+  "find-first-and-last-position-of-element-in-sorted-array": [
+    "Array",
+    "BinarySearch"
+  ],
+  "search-insert-position": [
+    "Array",
+    "BinarySearch"
+  ],
+  "count-and-say": [
+    "Array",
+    "String"
+  ],
+  "combination-sum": [
+    "Array",
+    "Backtracking"
+  ],
+  "combination-sum-ii": [
+    "Array",
+    "Backtracking"
+  ],
+  "first-missing-positive": [
+    "Array"
+  ],
+  "trapping-rain-water": [
+    "Array",
+    "Stack",
+    "TwoPointers"
+  ],
+  "wildcard-matching": [
+    "Array",
+    "Backtracking",
+    "DynamicProgramming",
+    "Greedy",
+    "String"
+  ],
+  "jump-game-ii": [
+    "Array",
+    "Greedy"
+  ],
+  "permutations": [
+    "Array",
+    "Backtracking"
+  ],
+  "permutations-ii": [
+    "Array",
+    "Backtracking"
+  ],
+  "rotate-image": [
+    "Array"
+  ],
+  "group-anagrams": [
+    "Array",
+    "HashTable",
+    "String"
+  ],
+  "powx-n": [
+    "Array",
+    "BinarySearch",
+    "Math"
+  ],
+  "n-queens": [
+    "Array",
+    "Backtracking"
+  ],
+  "n-queens-ii": [
+    "Array",
+    "Backtracking"
+  ],
+  "maximum-subarray": [
+    "Array",
+    "DivideandConquer",
+    "DynamicProgramming"
+  ],
+  "spiral-matrix": [
+    "Array"
+  ],
+  "jump-game": [
+    "Array",
+    "Greedy"
+  ],
+  "merge-intervals": [
+    "Array",
+    "Sort"
+  ],
+  "insert-interval": [
+    "Array",
+    "Sort"
+  ],
+  "length-of-last-word": [
+    "Array",
+    "String"
+  ],
+  "spiral-matrix-ii": [
+    "Array"
+  ],
+  "permutation-sequence": [
+    "Array",
+    "Backtracking",
+    "Math"
+  ],
+  "rotate-list": [
+    "Array",
+    "LinkedList",
+    "TwoPointers"
+  ],
+  "unique-paths": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "unique-paths-ii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "minimum-path-sum": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "valid-number": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "plus-one": [
+    "Array"
+  ],
+  "add-binary": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "text-justification": [
+    "Array",
+    "String"
+  ],
+  "sqrtx": [
+    "Array",
+    "BinarySearch",
+    "Math"
+  ],
+  "climbing-stairs": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "simplify-path": [
+    "Array",
+    "Stack",
+    "String"
+  ],
+  "edit-distance": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "set-matrix-zeroes": [
+    "Array"
+  ],
+  "search-a-2d-matrix": [
+    "Array",
+    "BinarySearch"
+  ],
+  "sort-colors": [
+    "Array",
+    "Sort",
+    "TwoPointers"
+  ],
+  "minimum-window-substring": [
+    "Array",
+    "HashTable",
+    "SlidingWindow",
+    "String",
+    "TwoPointers"
+  ],
+  "combinations": [
+    "Array",
+    "Backtracking"
+  ],
+  "subsets": [
+    "Array",
+    "Backtracking",
+    "BitManipulation"
+  ],
+  "word-search": [
+    "Array",
+    "Backtracking"
+  ],
+  "remove-duplicates-from-sorted-array-ii": [
+    "Array",
+    "TwoPointers"
+  ],
+  "search-in-rotated-sorted-array-ii": [
+    "Array",
+    "BinarySearch"
+  ],
+  "remove-duplicates-from-sorted-list-ii": [
+    "Array",
+    "LinkedList"
+  ],
+  "remove-duplicates-from-sorted-list": [
+    "Array",
+    "LinkedList"
+  ],
+  "largest-rectangle-in-histogram": [
+    "Array",
+    "Stack"
+  ],
+  "maximal-rectangle": [
+    "Array",
+    "DynamicProgramming",
+    "HashTable",
+    "Stack"
+  ],
+  "partition-list": [
+    "Array",
+    "LinkedList",
+    "TwoPointers"
+  ],
+  "scramble-string": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "merge-sorted-array": [
+    "Array",
+    "TwoPointers"
+  ],
+  "gray-code": [
+    "Array",
+    "Backtracking"
+  ],
+  "subsets-ii": [
+    "Array",
+    "Backtracking"
+  ],
+  "decode-ways": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "reverse-linked-list-ii": [
+    "Array",
+    "LinkedList"
+  ],
+  "restore-ip-addresses": [
+    "Array",
+    "Backtracking",
+    "String"
+  ],
+  "binary-tree-inorder-traversal": [
+    "Array",
+    "HashTable",
+    "Stack",
+    "Tree"
+  ],
+  "unique-binary-search-trees-ii": [
+    "Array",
+    "DynamicProgramming",
+    "Tree"
+  ],
+  "unique-binary-search-trees": [
+    "Array",
+    "DynamicProgramming",
+    "Tree"
+  ],
+  "interleaving-string": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "validate-binary-search-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "recover-binary-search-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "same-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "minimum-cost-to-merge-stones": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "grid-illumination": [
+    "Array",
+    "HashTable"
+  ],
+  "find-common-characters": [
+    "Array",
+    "HashTable"
+  ],
+  "check-if-word-is-valid-after-substitutions": [
+    "Array",
+    "Stack",
+    "String"
+  ],
+  "max-consecutive-ones-iii": [
+    "Array",
+    "SlidingWindow",
+    "TwoPointers"
+  ],
+  "maximize-sum-of-array-after-k-negations": [
+    "Array",
+    "Greedy"
+  ],
+  "clumsy-factorial": [
+    "Array",
+    "Math"
+  ],
+  "minimum-domino-rotations-for-equal-row": [
+    "Array",
+    "Greedy"
+  ],
+  "construct-binary-search-tree-from-preorder-traversal": [
+    "Array",
+    "Tree"
+  ],
+  "complement-of-base-10-integer": [
+    "Array",
+    "Math"
+  ],
+  "symmetric-tree": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "pairs-of-songs-with-total-durations-divisible-by-60": [
+    "Array"
+  ],
+  "capacity-to-ship-packages-within-d-days": [
+    "Array",
+    "BinarySearch"
+  ],
+  "numbers-with-repeated-digits": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "partition-array-into-three-parts-with-equal-sum": [
+    "Array"
+  ],
+  "best-sightseeing-pair": [
+    "Array"
+  ],
+  "smallest-integer-divisible-by-k": [
+    "Array",
+    "Math"
+  ],
+  "binary-string-with-substrings-representing-1-to-n": [
+    "Array",
+    "String"
+  ],
+  "convert-to-base-2": [
+    "Array",
+    "Math"
+  ],
+  "binary-prefix-divisible-by-5": [
+    "Array"
+  ],
+  "next-greater-node-in-linked-list": [
+    "Array",
+    "LinkedList",
+    "Stack"
+  ],
+  "binary-tree-level-order-traversal": [
+    "Array",
+    "Breadth-firstSearch",
+    "Tree"
+  ],
+  "number-of-enclaves": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "remove-outermost-parentheses": [
+    "Array",
+    "Stack"
+  ],
+  "sum-of-root-to-leaf-binary-numbers": [
+    "Array",
+    "Tree"
+  ],
+  "camelcase-matching": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "video-stitching": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "divisor-game": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "maximum-difference-between-node-and-ancestor": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "longest-arithmetic-sequence": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "recover-a-tree-from-preorder-traversal": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "two-city-scheduling": [
+    "Array",
+    "Greedy"
+  ],
+  "binary-tree-zigzag-level-order-traversal": [
+    "Array",
+    "Breadth-firstSearch",
+    "Stack",
+    "Tree"
+  ],
+  "matrix-cells-in-distance-order": [
+    "Array",
+    "Sort"
+  ],
+  "maximum-sum-of-two-non-overlapping-subarrays": [
+    "Array"
+  ],
+  "stream-of-characters": [
+    "Array",
+    "Trie"
+  ],
+  "moving-stones-until-consecutive": [
+    "Array",
+    "Brainteaser"
+  ],
+  "coloring-a-border": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "uncrossed-lines": [
+    "Array"
+  ],
+  "escape-a-large-maze": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "valid-boomerang": [
+    "Array",
+    "Math"
+  ],
+  "binary-search-tree-to-greater-sum-tree": [
+    "Array",
+    "BinarySearchTree"
+  ],
+  "minimum-score-triangulation-of-polygon": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "maximum-depth-of-binary-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "moving-stones-until-consecutive-ii": [
+    "Array",
+    "SlidingWindow"
+  ],
+  "robot-bounded-in-circle": [
+    "Array",
+    "Math"
+  ],
+  "flower-planting-with-no-adjacent": [
+    "Array",
+    "Graph"
+  ],
+  "partition-array-for-maximum-sum": [
+    "Array",
+    "Graph"
+  ],
+  "longest-duplicate-substring": [
+    "Array",
+    "BinarySearch",
+    "HashTable"
+  ],
+  "last-stone-weight": [
+    "Array",
+    "Greedy",
+    "Heap"
+  ],
+  "remove-all-adjacent-duplicates-in-string": [
+    "Array",
+    "Stack"
+  ],
+  "longest-string-chain": [
+    "Array",
+    "DynamicProgramming",
+    "HashTable"
+  ],
+  "last-stone-weight-ii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "construct-binary-tree-from-preorder-and-inorder-traversal": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "height-checker": [
+    "Array"
+  ],
+  "grumpy-bookstore-owner": [
+    "Array",
+    "SlidingWindow"
+  ],
+  "previous-permutation-with-one-swap": [
+    "Array",
+    "Greedy"
+  ],
+  "distant-barcodes": [
+    "Array",
+    "Heap",
+    "Sort"
+  ],
+  "construct-binary-tree-from-inorder-and-postorder-traversal": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "binary-tree-level-order-traversal-ii": [
+    "Array",
+    "Breadth-firstSearch",
+    "Tree"
+  ],
+  "convert-sorted-array-to-binary-search-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "convert-sorted-list-to-binary-search-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "LinkedList"
+  ],
+  "balanced-binary-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "minimum-depth-of-binary-tree": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "path-sum": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "path-sum-ii": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "flatten-binary-tree-to-linked-list": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "distinct-subsequences": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "populating-next-right-pointers-in-each-node": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "populating-next-right-pointers-in-each-node-ii": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "pascals-triangle": [
+    "Array"
+  ],
+  "pascals-triangle-ii": [
+    "Array"
+  ],
+  "triangle": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "best-time-to-buy-and-sell-stock": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "best-time-to-buy-and-sell-stock-ii": [
+    "Array",
+    "Greedy"
+  ],
+  "best-time-to-buy-and-sell-stock-iii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "binary-tree-maximum-path-sum": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "valid-palindrome": [
+    "Array",
+    "String",
+    "TwoPointers"
+  ],
+  "word-ladder-ii": [
+    "Array",
+    "Backtracking",
+    "Breadth-firstSearch",
+    "String"
+  ],
+  "word-ladder": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "longest-consecutive-sequence": [
+    "Array",
+    "UnionFind"
+  ],
+  "sum-root-to-leaf-numbers": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "surrounded-regions": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "UnionFind"
+  ],
+  "palindrome-partitioning": [
+    "Array",
+    "Backtracking"
+  ],
+  "palindrome-partitioning-ii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "clone-graph": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Graph"
+  ],
+  "gas-station": [
+    "Array",
+    "Greedy"
+  ],
+  "candy": [
+    "Array",
+    "Greedy"
+  ],
+  "single-number": [
+    "Array",
+    "BitManipulation",
+    "HashTable"
+  ],
+  "single-number-ii": [
+    "Array",
+    "BitManipulation"
+  ],
+  "copy-list-with-random-pointer": [
+    "Array",
+    "HashTable",
+    "LinkedList"
+  ],
+  "word-break": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "word-break-ii": [
+    "Array",
+    "Backtracking",
+    "DynamicProgramming"
+  ],
+  "linked-list-cycle": [
+    "Array",
+    "LinkedList",
+    "TwoPointers"
+  ],
+  "linked-list-cycle-ii": [
+    "Array",
+    "LinkedList",
+    "TwoPointers"
+  ],
+  "reorder-list": [
+    "Array",
+    "LinkedList"
+  ],
+  "binary-tree-preorder-traversal": [
+    "Array",
+    "Stack",
+    "Tree"
+  ],
+  "binary-tree-postorder-traversal": [
+    "Array",
+    "Stack",
+    "Tree"
+  ],
+  "lru-cache": [
+    "Array",
+    "Design"
+  ],
+  "insertion-sort-list": [
+    "Array",
+    "LinkedList",
+    "Sort"
+  ],
+  "sort-list": [
+    "Array",
+    "LinkedList",
+    "Sort"
+  ],
+  "max-points-on-a-line": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "evaluate-reverse-polish-notation": [
+    "Array",
+    "Stack"
+  ],
+  "reverse-words-in-a-string": [
+    "Array",
+    "String"
+  ],
+  "maximum-product-subarray": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "find-minimum-in-rotated-sorted-array": [
+    "Array",
+    "BinarySearch"
+  ],
+  "find-minimum-in-rotated-sorted-array-ii": [
+    "Array",
+    "BinarySearch"
+  ],
+  "min-stack": [
+    "Array",
+    "Design",
+    "Stack"
+  ],
+  "intersection-of-two-linked-lists": [
+    "Array",
+    "LinkedList"
+  ],
+  "find-peak-element": [
+    "Array",
+    "BinarySearch"
+  ],
+  "maximum-gap": [
+    "Array",
+    "Sort"
+  ],
+  "compare-version-numbers": [
+    "Array",
+    "String"
+  ],
+  "fraction-to-recurring-decimal": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "two-sum-ii-input-array-is-sorted": [
+    "Array",
+    "BinarySearch",
+    "TwoPointers"
+  ],
+  "excel-sheet-column-title": [
+    "Array",
+    "Math"
+  ],
+  "majority-element": [
+    "Array",
+    "BitManipulation",
+    "DivideandConquer"
+  ],
+  "excel-sheet-column-number": [
+    "Array",
+    "Math"
+  ],
+  "factorial-trailing-zeroes": [
+    "Array",
+    "Math"
+  ],
+  "binary-search-tree-iterator": [
+    "Array",
+    "Design",
+    "Stack",
+    "Tree"
+  ],
+  "dungeon-game": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming"
+  ],
+  "combine-two-tables": [
+    "Array"
+  ],
+  "second-highest-salary": [
+    "Array"
+  ],
+  "nth-highest-salary": [
+    "Array"
+  ],
+  "rank-scores": [
+    "Array"
+  ],
+  "largest-number": [
+    "Array",
+    "Sort"
+  ],
+  "consecutive-numbers": [
+    "Array"
+  ],
+  "employees-earning-more-than-their-managers": [
+    "Array"
+  ],
+  "duplicate-emails": [
+    "Array"
+  ],
+  "customers-who-never-order": [
+    "Array"
+  ],
+  "department-highest-salary": [
+    "Array"
+  ],
+  "department-top-three-salaries": [
+    "Array"
+  ],
+  "repeated-dna-sequences": [
+    "Array",
+    "BitManipulation",
+    "HashTable"
+  ],
+  "best-time-to-buy-and-sell-stock-iv": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "rotate-array": [
+    "Array"
+  ],
+  "reverse-bits": [
+    "Array",
+    "BitManipulation"
+  ],
+  "number-of-1-bits": [
+    "Array",
+    "BitManipulation"
+  ],
+  "word-frequency": [
+    "Array"
+  ],
+  "valid-phone-numbers": [
+    "Array"
+  ],
+  "transpose-file": [
+    "Array"
+  ],
+  "tenth-line": [
+    "Array"
+  ],
+  "delete-duplicate-emails": [
+    "Array"
+  ],
+  "rising-temperature": [
+    "Array"
+  ],
+  "house-robber": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "binary-tree-right-side-view": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "number-of-islands": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "UnionFind"
+  ],
+  "bitwise-and-of-numbers-range": [
+    "Array",
+    "BitManipulation"
+  ],
+  "happy-number": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "remove-linked-list-elements": [
+    "Array",
+    "LinkedList"
+  ],
+  "count-primes": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "isomorphic-strings": [
+    "Array",
+    "HashTable"
+  ],
+  "reverse-linked-list": [
+    "Array",
+    "LinkedList"
+  ],
+  "course-schedule": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Graph",
+    "TopologicalSort"
+  ],
+  "implement-trie-prefix-tree": [
+    "Array",
+    "Design",
+    "Trie"
+  ],
+  "minimum-size-subarray-sum": [
+    "Array",
+    "BinarySearch",
+    "TwoPointers"
+  ],
+  "course-schedule-ii": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Graph",
+    "TopologicalSort"
+  ],
+  "add-and-search-word-data-structure-design": [
+    "Array",
+    "Backtracking",
+    "Design",
+    "Trie"
+  ],
+  "word-search-ii": [
+    "Array",
+    "Backtracking",
+    "Trie"
+  ],
+  "house-robber-ii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "shortest-palindrome": [
+    "Array",
+    "String"
+  ],
+  "kth-largest-element-in-an-array": [
+    "Array",
+    "DivideandConquer",
+    "Heap"
+  ],
+  "combination-sum-iii": [
+    "Array",
+    "Backtracking"
+  ],
+  "contains-duplicate": [
+    "Array",
+    "HashTable"
+  ],
+  "the-skyline-problem": [
+    "Array",
+    "BinaryIndexedTree",
+    "DivideandConquer",
+    "Heap",
+    "LineSweep",
+    "SegmentTree"
+  ],
+  "contains-duplicate-ii": [
+    "Array",
+    "HashTable"
+  ],
+  "contains-duplicate-iii": [
+    "Array",
+    "OrderedMap",
+    "Sort"
+  ],
+  "maximal-square": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "count-complete-tree-nodes": [
+    "Array",
+    "BinarySearch",
+    "Tree"
+  ],
+  "rectangle-area": [
+    "Array",
+    "Math"
+  ],
+  "basic-calculator": [
+    "Array",
+    "Math",
+    "Stack"
+  ],
+  "implement-stack-using-queues": [
+    "Array",
+    "Design",
+    "Stack"
+  ],
+  "invert-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "basic-calculator-ii": [
+    "Array",
+    "String"
+  ],
+  "summary-ranges": [
+    "Array"
+  ],
+  "majority-element-ii": [
+    "Array"
+  ],
+  "kth-smallest-element-in-a-bst": [
+    "Array",
+    "BinarySearch",
+    "Tree"
+  ],
+  "power-of-two": [
+    "Array",
+    "BitManipulation",
+    "Math"
+  ],
+  "implement-queue-using-stacks": [
+    "Array",
+    "Design",
+    "Stack"
+  ],
+  "number-of-digit-one": [
+    "Array",
+    "Math"
+  ],
+  "palindrome-linked-list": [
+    "Array",
+    "LinkedList",
+    "TwoPointers"
+  ],
+  "lowest-common-ancestor-of-a-binary-search-tree": [
+    "Array",
+    "Tree"
+  ],
+  "lowest-common-ancestor-of-a-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "delete-node-in-a-linked-list": [
+    "Array",
+    "LinkedList"
+  ],
+  "product-of-array-except-self": [
+    "Array"
+  ],
+  "sliding-window-maximum": [
+    "Array",
+    "Heap",
+    "SlidingWindow"
+  ],
+  "search-a-2d-matrix-ii": [
+    "Array",
+    "BinarySearch",
+    "DivideandConquer"
+  ],
+  "different-ways-to-add-parentheses": [
+    "Array",
+    "DivideandConquer"
+  ],
+  "valid-anagram": [
+    "Array",
+    "HashTable",
+    "Sort"
+  ],
+  "binary-tree-paths": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "add-digits": [
+    "Array",
+    "Math"
+  ],
+  "single-number-iii": [
+    "Array",
+    "BitManipulation"
+  ],
+  "trips-and-users": [
+    "Array"
+  ],
+  "ugly-number": [
+    "Array",
+    "Math"
+  ],
+  "ugly-number-ii": [
+    "Array",
+    "DynamicProgramming",
+    "Heap",
+    "Math"
+  ],
+  "missing-number": [
+    "Array",
+    "BitManipulation",
+    "Math"
+  ],
+  "integer-to-english-words": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "h-index": [
+    "Array",
+    "HashTable",
+    "Sort"
+  ],
+  "h-index-ii": [
+    "Array",
+    "BinarySearch"
+  ],
+  "first-bad-version": [
+    "Array",
+    "BinarySearch"
+  ],
+  "perfect-squares": [
+    "Array",
+    "Breadth-firstSearch",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "expression-add-operators": [
+    "Array",
+    "DivideandConquer"
+  ],
+  "move-zeroes": [
+    "Array",
+    "TwoPointers"
+  ],
+  "peeking-iterator": [
+    "Array",
+    "Design"
+  ],
+  "find-the-duplicate-number": [
+    "Array",
+    "BinarySearch",
+    "TwoPointers"
+  ],
+  "game-of-life": [
+    "Array"
+  ],
+  "word-pattern": [
+    "Array",
+    "HashTable"
+  ],
+  "nim-game": [
+    "Array",
+    "Brainteaser",
+    "Minimax"
+  ],
+  "find-median-from-data-stream": [
+    "Array",
+    "Design",
+    "Heap"
+  ],
+  "serialize-and-deserialize-binary-tree": [
+    "Array",
+    "Design",
+    "Tree"
+  ],
+  "bulls-and-cows": [
+    "Array",
+    "HashTable"
+  ],
+  "longest-increasing-subsequence": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming"
+  ],
+  "remove-invalid-parentheses": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch"
+  ],
+  "range-sum-query-immutable": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "range-sum-query-2d-immutable": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "additive-number": [
+    "Array",
+    "Backtracking"
+  ],
+  "range-sum-query-mutable": [
+    "Array",
+    "BinaryIndexedTree",
+    "SegmentTree"
+  ],
+  "best-time-to-buy-and-sell-stock-with-cooldown": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "minimum-height-trees": [
+    "Array",
+    "Breadth-firstSearch",
+    "Graph"
+  ],
+  "burst-balloons": [
+    "Array",
+    "DivideandConquer",
+    "DynamicProgramming"
+  ],
+  "super-ugly-number": [
+    "Array",
+    "Heap",
+    "Math"
+  ],
+  "count-of-smaller-numbers-after-self": [
+    "Array",
+    "BinaryIndexedTree",
+    "BinarySearch",
+    "DivideandConquer",
+    "SegmentTree",
+    "Sort"
+  ],
+  "remove-duplicate-letters": [
+    "Array",
+    "Greedy",
+    "Stack"
+  ],
+  "maximum-product-of-word-lengths": [
+    "Array",
+    "BitManipulation"
+  ],
+  "bulb-switcher": [
+    "Array",
+    "Brainteaser",
+    "Math"
+  ],
+  "create-maximum-number": [
+    "Array",
+    "DynamicProgramming",
+    "Greedy"
+  ],
+  "coin-change": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "wiggle-sort-ii": [
+    "Array",
+    "Sort"
+  ],
+  "power-of-three": [
+    "Array",
+    "Math"
+  ],
+  "count-of-range-sum": [
+    "Array",
+    "BinaryIndexedTree",
+    "BinarySearch",
+    "DivideandConquer",
+    "SegmentTree",
+    "Sort"
+  ],
+  "odd-even-linked-list": [
+    "Array",
+    "LinkedList"
+  ],
+  "longest-increasing-path-in-a-matrix": [
+    "Array",
+    "Depth-firstSearch",
+    "Memoization",
+    "TopologicalSort"
+  ],
+  "patching-array": [
+    "Array",
+    "Greedy"
+  ],
+  "verify-preorder-serialization-of-a-binary-tree": [
+    "Array",
+    "Stack"
+  ],
+  "reconstruct-itinerary": [
+    "Array",
+    "Depth-firstSearch",
+    "Graph"
+  ],
+  "increasing-triplet-subsequence": [
+    "Array"
+  ],
+  "self-crossing": [
+    "Array",
+    "Math"
+  ],
+  "palindrome-pairs": [
+    "Array",
+    "HashTable",
+    "String",
+    "Trie"
+  ],
+  "house-robber-iii": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "counting-bits": [
+    "Array",
+    "BitManipulation",
+    "DynamicProgramming"
+  ],
+  "flatten-nested-list-iterator": [
+    "Array",
+    "Design",
+    "Stack"
+  ],
+  "power-of-four": [
+    "Array",
+    "BitManipulation"
+  ],
+  "integer-break": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "reverse-string": [
+    "Array",
+    "String",
+    "TwoPointers"
+  ],
+  "reverse-vowels-of-a-string": [
+    "Array",
+    "String",
+    "TwoPointers"
+  ],
+  "top-k-frequent-elements": [
+    "Array",
+    "HashTable",
+    "Heap"
+  ],
+  "intersection-of-two-arrays": [
+    "Array",
+    "BinarySearch",
+    "HashTable",
+    "Sort",
+    "TwoPointers"
+  ],
+  "intersection-of-two-arrays-ii": [
+    "Array",
+    "BinarySearch",
+    "HashTable",
+    "Sort",
+    "TwoPointers"
+  ],
+  "data-stream-as-disjoint-intervals": [
+    "Array",
+    "BinarySearch",
+    "OrderedMap"
+  ],
+  "russian-doll-envelopes": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming"
+  ],
+  "design-twitter": [
+    "Array",
+    "Design",
+    "HashTable",
+    "Heap"
+  ],
+  "count-numbers-with-unique-digits": [
+    "Array",
+    "Backtracking",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "max-sum-of-rectangle-no-larger-than-k": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming",
+    "Queue"
+  ],
+  "water-and-jug-problem": [
+    "Array",
+    "Math"
+  ],
+  "valid-perfect-square": [
+    "Array",
+    "BinarySearch",
+    "Math"
+  ],
+  "largest-divisible-subset": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "sum-of-two-integers": [
+    "Array",
+    "BitManipulation"
+  ],
+  "super-pow": [
+    "Array",
+    "Math"
+  ],
+  "find-k-pairs-with-smallest-sums": [
+    "Array",
+    "Heap"
+  ],
+  "guess-number-higher-or-lower": [
+    "Array",
+    "BinarySearch"
+  ],
+  "guess-number-higher-or-lower-ii": [
+    "Array",
+    "DynamicProgramming",
+    "Minimax"
+  ],
+  "wiggle-subsequence": [
+    "Array",
+    "DynamicProgramming",
+    "Greedy"
+  ],
+  "combination-sum-iv": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "kth-smallest-element-in-a-sorted-matrix": [
+    "Array",
+    "BinarySearch",
+    "Heap"
+  ],
+  "insert-delete-getrandom-o1": [
+    "Array",
+    "Design",
+    "HashTable"
+  ],
+  "insert-delete-getrandom-o1-duplicates-allowed": [
+    "Array",
+    "Design",
+    "HashTable"
+  ],
+  "linked-list-random-node": [
+    "Array",
+    "ReservoirSampling"
+  ],
+  "ransom-note": [
+    "Array",
+    "String"
+  ],
+  "shuffle-an-array": [
+    "Array"
+  ],
+  "mini-parser": [
+    "Array",
+    "Stack",
+    "String"
+  ],
+  "lexicographical-numbers": [
+    "Array"
+  ],
+  "first-unique-character-in-a-string": [
+    "Array",
+    "HashTable",
+    "String"
+  ],
+  "longest-absolute-file-path": [
+    "Array"
+  ],
+  "find-the-difference": [
+    "Array",
+    "BitManipulation",
+    "HashTable"
+  ],
+  "elimination-game": [
+    "Array"
+  ],
+  "perfect-rectangle": [
+    "Array",
+    "LineSweep"
+  ],
+  "is-subsequence": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming",
+    "Greedy"
+  ],
+  "utf-8-validation": [
+    "Array",
+    "BitManipulation"
+  ],
+  "decode-string": [
+    "Array",
+    "Depth-firstSearch",
+    "Stack"
+  ],
+  "longest-substring-with-at-least-k-repeating-characters": [
+    "Array"
+  ],
+  "rotate-function": [
+    "Array",
+    "Math"
+  ],
+  "integer-replacement": [
+    "Array",
+    "BitManipulation",
+    "Math"
+  ],
+  "random-pick-index": [
+    "Array",
+    "ReservoirSampling"
+  ],
+  "evaluate-division": [
+    "Array",
+    "Graph",
+    "UnionFind"
+  ],
+  "nth-digit": [
+    "Array",
+    "Math"
+  ],
+  "binary-watch": [
+    "Array",
+    "Backtracking",
+    "BitManipulation"
+  ],
+  "remove-k-digits": [
+    "Array",
+    "Greedy",
+    "Stack"
+  ],
+  "frog-jump": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "sum-of-left-leaves": [
+    "Array",
+    "Tree"
+  ],
+  "convert-a-number-to-hexadecimal": [
+    "Array",
+    "BitManipulation"
+  ],
+  "queue-reconstruction-by-height": [
+    "Array",
+    "Greedy"
+  ],
+  "trapping-rain-water-ii": [
+    "Array",
+    "Breadth-firstSearch",
+    "Heap"
+  ],
+  "longest-palindrome": [
+    "Array",
+    "HashTable"
+  ],
+  "split-array-largest-sum": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming"
+  ],
+  "fizz-buzz": [
+    "Array"
+  ],
+  "arithmetic-slices": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "third-maximum-number": [
+    "Array"
+  ],
+  "add-strings": [
+    "Array",
+    "String"
+  ],
+  "partition-equal-subset-sum": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "pacific-atlantic-water-flow": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch"
+  ],
+  "battleships-in-a-board": [
+    "Array"
+  ],
+  "strong-password-checker": [
+    "Array"
+  ],
+  "maximum-xor-of-two-numbers-in-an-array": [
+    "Array",
+    "BitManipulation",
+    "Trie"
+  ],
+  "reconstruct-original-digits-from-english": [
+    "Array",
+    "Math"
+  ],
+  "longest-repeating-character-replacement": [
+    "Array",
+    "SlidingWindow",
+    "TwoPointers"
+  ],
+  "construct-quad-tree": [
+    "Array"
+  ],
+  "n-ary-tree-level-order-traversal": [
+    "Array",
+    "Breadth-firstSearch",
+    "Tree"
+  ],
+  "flatten-a-multilevel-doubly-linked-list": [
+    "Array",
+    "Depth-firstSearch",
+    "LinkedList"
+  ],
+  "all-oone-data-structure": [
+    "Array",
+    "Design"
+  ],
+  "minimum-genetic-mutation": [
+    "Array"
+  ],
+  "number-of-segments-in-a-string": [
+    "Array",
+    "String"
+  ],
+  "non-overlapping-intervals": [
+    "Array",
+    "Greedy"
+  ],
+  "find-right-interval": [
+    "Array",
+    "BinarySearch"
+  ],
+  "path-sum-iii": [
+    "Array",
+    "Tree"
+  ],
+  "find-all-anagrams-in-a-string": [
+    "Array",
+    "HashTable"
+  ],
+  "k-th-smallest-in-lexicographical-order": [
+    "Array"
+  ],
+  "arranging-coins": [
+    "Array",
+    "BinarySearch",
+    "Math"
+  ],
+  "find-all-duplicates-in-an-array": [
+    "Array"
+  ],
+  "string-compression": [
+    "Array",
+    "String"
+  ],
+  "add-two-numbers-ii": [
+    "Array",
+    "LinkedList"
+  ],
+  "arithmetic-slices-ii-subsequence": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "number-of-boomerangs": [
+    "Array",
+    "HashTable"
+  ],
+  "find-all-numbers-disappeared-in-an-array": [
+    "Array"
+  ],
+  "serialize-and-deserialize-bst": [
+    "Array",
+    "Tree"
+  ],
+  "delete-node-in-a-bst": [
+    "Array",
+    "Tree"
+  ],
+  "sort-characters-by-frequency": [
+    "Array",
+    "HashTable",
+    "Heap"
+  ],
+  "minimum-number-of-arrows-to-burst-balloons": [
+    "Array",
+    "Greedy"
+  ],
+  "minimum-moves-to-equal-array-elements": [
+    "Array",
+    "Math"
+  ],
+  "4sum-ii": [
+    "Array",
+    "BinarySearch",
+    "HashTable"
+  ],
+  "assign-cookies": [
+    "Array",
+    "Greedy"
+  ],
+  "132-pattern": [
+    "Array",
+    "Stack"
+  ],
+  "circular-array-loop": [
+    "Array",
+    "TwoPointers"
+  ],
+  "poor-pigs": [
+    "Array",
+    "Math"
+  ],
+  "repeated-substring-pattern": [
+    "Array",
+    "String"
+  ],
+  "lfu-cache": [
+    "Array",
+    "Design"
+  ],
+  "hamming-distance": [
+    "Array",
+    "BitManipulation"
+  ],
+  "minimum-moves-to-equal-array-elements-ii": [
+    "Array",
+    "Math"
+  ],
+  "island-perimeter": [
+    "Array",
+    "HashTable"
+  ],
+  "can-i-win": [
+    "Array",
+    "DynamicProgramming",
+    "Minimax"
+  ],
+  "count-the-repetitions": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "unique-substrings-in-wraparound-string": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "validate-ip-address": [
+    "Array",
+    "String"
+  ],
+  "implement-rand10-using-rand7": [
+    "Array",
+    "Random",
+    "RejectionSampling"
+  ],
+  "concatenated-words": [
+    "Array",
+    "Depth-firstSearch",
+    "DynamicProgramming",
+    "Trie"
+  ],
+  "matchsticks-to-square": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "ones-and-zeroes": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "heaters": [
+    "Array",
+    "BinarySearch"
+  ],
+  "number-complement": [
+    "Array",
+    "BitManipulation"
+  ],
+  "total-hamming-distance": [
+    "Array",
+    "BitManipulation"
+  ],
+  "generate-random-point-in-a-circle": [
+    "Array",
+    "Math",
+    "Random",
+    "RejectionSampling"
+  ],
+  "largest-palindrome-product": [
+    "Array"
+  ],
+  "sliding-window-median": [
+    "Array",
+    "SlidingWindow"
+  ],
+  "magical-string": [
+    "Array"
+  ],
+  "license-key-formatting": [
+    "Array"
+  ],
+  "smallest-good-base": [
+    "Array",
+    "BinarySearch",
+    "Math"
+  ],
+  "max-consecutive-ones": [
+    "Array"
+  ],
+  "predict-the-winner": [
+    "Array",
+    "DynamicProgramming",
+    "Minimax"
+  ],
+  "zuma-game": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "increasing-subsequences": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "construct-the-rectangle": [
+    "Array"
+  ],
+  "reverse-pairs": [
+    "Array",
+    "BinaryIndexedTree",
+    "BinarySearch",
+    "DivideandConquer",
+    "SegmentTree",
+    "Sort"
+  ],
+  "target-sum": [
+    "Array",
+    "Depth-firstSearch",
+    "DynamicProgramming"
+  ],
+  "teemo-attacking": [
+    "Array"
+  ],
+  "next-greater-element-i": [
+    "Array",
+    "Stack"
+  ],
+  "random-point-in-non-overlapping-rectangles": [
+    "Array",
+    "BinarySearch",
+    "Random"
+  ],
+  "diagonal-traverse": [
+    "Array"
+  ],
+  "keyboard-row": [
+    "Array",
+    "HashTable"
+  ],
+  "find-mode-in-binary-search-tree": [
+    "Array",
+    "Tree"
+  ],
+  "ipo": [
+    "Array",
+    "Greedy",
+    "Heap"
+  ],
+  "next-greater-element-ii": [
+    "Array",
+    "Stack"
+  ],
+  "base-7": [
+    "Array"
+  ],
+  "relative-ranks": [
+    "Array"
+  ],
+  "perfect-number": [
+    "Array",
+    "Math"
+  ],
+  "most-frequent-subtree-sum": [
+    "Array",
+    "HashTable",
+    "Tree"
+  ],
+  "fibonacci-number": [
+    "Array"
+  ],
+  "find-bottom-left-tree-value": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "freedom-trail": [
+    "Array",
+    "Depth-firstSearch",
+    "DivideandConquer",
+    "DynamicProgramming"
+  ],
+  "find-largest-value-in-each-tree-row": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "longest-palindromic-subsequence": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "super-washing-machines": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "coin-change-2": [
+    "Array"
+  ],
+  "random-flip-matrix": [
+    "Array",
+    "Random"
+  ],
+  "detect-capital": [
+    "Array",
+    "String"
+  ],
+  "longest-uncommon-subsequence-i": [
+    "Array",
+    "String"
+  ],
+  "longest-uncommon-subsequence-ii": [
+    "Array",
+    "String"
+  ],
+  "continuous-subarray-sum": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "longest-word-in-dictionary-through-deleting": [
+    "Array",
+    "Sort",
+    "TwoPointers"
+  ],
+  "contiguous-array": [
+    "Array",
+    "HashTable"
+  ],
+  "beautiful-arrangement": [
+    "Array",
+    "Backtracking"
+  ],
+  "random-pick-with-weight": [
+    "Array",
+    "BinarySearch",
+    "Random"
+  ],
+  "minesweeper": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch"
+  ],
+  "minimum-absolute-difference-in-bst": [
+    "Array",
+    "Tree"
+  ],
+  "k-diff-pairs-in-an-array": [
+    "Array",
+    "TwoPointers"
+  ],
+  "encode-and-decode-tinyurl": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "complex-number-multiplication": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "convert-bst-to-greater-tree": [
+    "Array",
+    "Tree"
+  ],
+  "minimum-time-difference": [
+    "Array",
+    "String"
+  ],
+  "single-element-in-a-sorted-array": [
+    "Array"
+  ],
+  "reverse-string-ii": [
+    "Array",
+    "String"
+  ],
+  "01-matrix": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch"
+  ],
+  "diameter-of-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "remove-boxes": [
+    "Array",
+    "Depth-firstSearch",
+    "DynamicProgramming"
+  ],
+  "friend-circles": [
+    "Array",
+    "Depth-firstSearch",
+    "UnionFind"
+  ],
+  "student-attendance-record-i": [
+    "Array",
+    "String"
+  ],
+  "student-attendance-record-ii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "optimal-division": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "brick-wall": [
+    "Array",
+    "HashTable"
+  ],
+  "next-greater-element-iii": [
+    "Array",
+    "String"
+  ],
+  "reverse-words-in-a-string-iii": [
+    "Array",
+    "String"
+  ],
+  "quad-tree-intersection": [
+    "Array"
+  ],
+  "maximum-depth-of-n-ary-tree": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "subarray-sum-equals-k": [
+    "Array",
+    "HashTable"
+  ],
+  "array-partition-i": [
+    "Array"
+  ],
+  "binary-tree-tilt": [
+    "Array",
+    "Tree"
+  ],
+  "find-the-closest-palindrome": [
+    "Array",
+    "String"
+  ],
+  "array-nesting": [
+    "Array"
+  ],
+  "reshape-the-matrix": [
+    "Array"
+  ],
+  "permutation-in-string": [
+    "Array",
+    "SlidingWindow",
+    "TwoPointers"
+  ],
+  "subtree-of-another-tree": [
+    "Array",
+    "Tree"
+  ],
+  "distribute-candies": [
+    "Array",
+    "HashTable"
+  ],
+  "out-of-boundary-paths": [
+    "Array",
+    "Depth-firstSearch",
+    "DynamicProgramming"
+  ],
+  "shortest-unsorted-continuous-subarray": [
+    "Array"
+  ],
+  "delete-operation-for-two-strings": [
+    "Array",
+    "String"
+  ],
+  "erect-the-fence": [
+    "Array",
+    "Geometry"
+  ],
+  "n-ary-tree-preorder-traversal": [
+    "Array",
+    "Tree"
+  ],
+  "n-ary-tree-postorder-traversal": [
+    "Array",
+    "Tree"
+  ],
+  "tag-validator": [
+    "Array",
+    "Stack",
+    "String"
+  ],
+  "fraction-addition-and-subtraction": [
+    "Array",
+    "Math"
+  ],
+  "valid-square": [
+    "Array",
+    "Math"
+  ],
+  "longest-harmonious-subsequence": [
+    "Array",
+    "HashTable"
+  ],
+  "big-countries": [
+    "Array"
+  ],
+  "classes-more-than-5-students": [
+    "Array"
+  ],
+  "range-addition-ii": [
+    "Array",
+    "Math"
+  ],
+  "minimum-index-sum-of-two-lists": [
+    "Array",
+    "HashTable"
+  ],
+  "non-negative-integers-without-consecutive-ones": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "human-traffic-of-stadium": [
+    "Array"
+  ],
+  "can-place-flowers": [
+    "Array"
+  ],
+  "construct-string-from-binary-tree": [
+    "Array",
+    "String",
+    "Tree"
+  ],
+  "find-duplicate-file-in-system": [
+    "Array",
+    "HashTable",
+    "String"
+  ],
+  "valid-triangle-number": [
+    "Array"
+  ],
+  "merge-two-binary-trees": [
+    "Array",
+    "Tree"
+  ],
+  "not-boring-movies": [
+    "Array"
+  ],
+  "task-scheduler": [
+    "Array",
+    "Greedy",
+    "Queue"
+  ],
+  "design-circular-queue": [
+    "Array",
+    "Design",
+    "Queue"
+  ],
+  "add-one-row-to-tree": [
+    "Array",
+    "Tree"
+  ],
+  "exchange-seats": [
+    "Array"
+  ],
+  "swap-salary": [
+    "Array"
+  ],
+  "maximum-product-of-three-numbers": [
+    "Array",
+    "Math"
+  ],
+  "k-inverse-pairs-array": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "course-schedule-iii": [
+    "Array",
+    "Greedy"
+  ],
+  "smallest-range": [
+    "Array",
+    "HashTable",
+    "String",
+    "TwoPointers"
+  ],
+  "sum-of-square-numbers": [
+    "Array",
+    "Math"
+  ],
+  "exclusive-time-of-functions": [
+    "Array",
+    "Stack"
+  ],
+  "average-of-levels-in-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "shopping-offers": [
+    "Array",
+    "Depth-firstSearch",
+    "DynamicProgramming"
+  ],
+  "decode-ways-ii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "solve-the-equation": [
+    "Array",
+    "Math"
+  ],
+  "design-circular-deque": [
+    "Array",
+    "Design",
+    "Queue"
+  ],
+  "maximum-average-subarray-i": [
+    "Array"
+  ],
+  "set-mismatch": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "maximum-length-of-pair-chain": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "palindromic-substrings": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "replace-words": [
+    "Array",
+    "HashTable",
+    "Trie"
+  ],
+  "dota2-senate": [
+    "Array",
+    "Greedy"
+  ],
+  "2-keys-keyboard": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "find-duplicate-subtrees": [
+    "Array",
+    "Tree"
+  ],
+  "two-sum-iv-input-is-a-bst": [
+    "Array",
+    "Tree"
+  ],
+  "maximum-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "print-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "robot-return-to-origin": [
+    "Array",
+    "String"
+  ],
+  "find-k-closest-elements": [
+    "Array",
+    "BinarySearch"
+  ],
+  "split-array-into-consecutive-subsequences": [
+    "Array",
+    "Greedy",
+    "Heap"
+  ],
+  "image-smoother": [
+    "Array"
+  ],
+  "maximum-width-of-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "strange-printer": [
+    "Array",
+    "Depth-firstSearch",
+    "DynamicProgramming"
+  ],
+  "non-decreasing-array": [
+    "Array"
+  ],
+  "beautiful-arrangement-ii": [
+    "Array"
+  ],
+  "kth-smallest-number-in-multiplication-table": [
+    "Array",
+    "BinarySearch"
+  ],
+  "trim-a-binary-search-tree": [
+    "Array",
+    "Tree"
+  ],
+  "maximum-swap": [
+    "Array",
+    "Math"
+  ],
+  "second-minimum-node-in-a-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "bulb-switcher-ii": [
+    "Array",
+    "Math"
+  ],
+  "number-of-longest-increasing-subsequence": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "longest-continuous-increasing-subsequence": [
+    "Array"
+  ],
+  "cut-off-trees-for-golf-event": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "implement-magic-dictionary": [
+    "Array",
+    "HashTable",
+    "Trie"
+  ],
+  "map-sum-pairs": [
+    "Array",
+    "Trie"
+  ],
+  "valid-parenthesis-string": [
+    "Array",
+    "String"
+  ],
+  "24-game": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "valid-palindrome-ii": [
+    "Array",
+    "String"
+  ],
+  "baseball-game": [
+    "Array",
+    "Stack"
+  ],
+  "redundant-connection": [
+    "Array",
+    "Graph",
+    "Tree",
+    "UnionFind"
+  ],
+  "redundant-connection-ii": [
+    "Array",
+    "Depth-firstSearch",
+    "Graph",
+    "Tree",
+    "UnionFind"
+  ],
+  "repeated-string-match": [
+    "Array",
+    "String"
+  ],
+  "longest-univalue-path": [
+    "Array",
+    "Recursion",
+    "Tree"
+  ],
+  "knight-probability-in-chessboard": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "maximum-sum-of-3-non-overlapping-subarrays": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "employee-importance": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "HashTable"
+  ],
+  "stickers-to-spell-word": [
+    "Array",
+    "Backtracking",
+    "DynamicProgramming"
+  ],
+  "top-k-frequent-words": [
+    "Array",
+    "HashTable",
+    "Heap",
+    "Trie"
+  ],
+  "binary-number-with-alternating-bits": [
+    "Array",
+    "BitManipulation"
+  ],
+  "max-area-of-island": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "count-binary-substrings": [
+    "Array",
+    "String"
+  ],
+  "degree-of-an-array": [
+    "Array"
+  ],
+  "partition-to-k-equal-sum-subsets": [
+    "Array",
+    "DynamicProgramming",
+    "Recursion"
+  ],
+  "falling-squares": [
+    "Array",
+    "OrderedMap",
+    "SegmentTree"
+  ],
+  "search-in-a-binary-search-tree": [
+    "Array",
+    "Tree"
+  ],
+  "insert-into-a-binary-search-tree": [
+    "Array",
+    "Tree"
+  ],
+  "kth-largest-element-in-a-stream": [
+    "Array",
+    "Heap"
+  ],
+  "binary-search": [
+    "Array",
+    "BinarySearch"
+  ],
+  "design-hashset": [
+    "Array",
+    "Design",
+    "HashTable"
+  ],
+  "design-hashmap": [
+    "Array",
+    "Design",
+    "HashTable"
+  ],
+  "design-linked-list": [
+    "Array",
+    "Design",
+    "LinkedList"
+  ],
+  "to-lower-case": [
+    "Array",
+    "String"
+  ],
+  "random-pick-with-blacklist": [
+    "Array",
+    "BinarySearch",
+    "HashTable",
+    "Random",
+    "Sort"
+  ],
+  "minimum-ascii-delete-sum-for-two-strings": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "subarray-product-less-than-k": [
+    "Array",
+    "TwoPointers"
+  ],
+  "best-time-to-buy-and-sell-stock-with-transaction-fee": [
+    "Array",
+    "DynamicProgramming",
+    "Greedy"
+  ],
+  "range-module": [
+    "Array",
+    "OrderedMap",
+    "SegmentTree"
+  ],
+  "1-bit-and-2-bit-characters": [
+    "Array"
+  ],
+  "maximum-length-of-repeated-subarray": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming",
+    "HashTable"
+  ],
+  "find-k-th-smallest-pair-distance": [
+    "Array",
+    "BinarySearch",
+    "Heap"
+  ],
+  "longest-word-in-dictionary": [
+    "Array",
+    "HashTable",
+    "Trie"
+  ],
+  "accounts-merge": [
+    "Array",
+    "Depth-firstSearch",
+    "UnionFind"
+  ],
+  "remove-comments": [
+    "Array",
+    "String"
+  ],
+  "find-pivot-index": [
+    "Array"
+  ],
+  "split-linked-list-in-parts": [
+    "Array",
+    "LinkedList"
+  ],
+  "number-of-atoms": [
+    "Array",
+    "HashTable",
+    "Recursion",
+    "Stack"
+  ],
+  "self-dividing-numbers": [
+    "Array",
+    "Math"
+  ],
+  "my-calendar-i": [
+    "Array"
+  ],
+  "count-different-palindromic-subsequences": [
+    "Array",
+    "DynamicProgramming",
+    "String"
+  ],
+  "my-calendar-ii": [
+    "Array",
+    "OrderedMap"
+  ],
+  "my-calendar-iii": [
+    "Array",
+    "OrderedMap",
+    "SegmentTree"
+  ],
+  "flood-fill": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "asteroid-collision": [
+    "Array",
+    "Stack"
+  ],
+  "parse-lisp-expression": [
+    "Array",
+    "String"
+  ],
+  "monotone-increasing-digits": [
+    "Array",
+    "Greedy"
+  ],
+  "daily-temperatures": [
+    "Array",
+    "HashTable",
+    "Stack"
+  ],
+  "delete-and-earn": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "cherry-pickup": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "network-delay-time": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Graph",
+    "Heap"
+  ],
+  "find-smallest-letter-greater-than-target": [
+    "Array",
+    "BinarySearch"
+  ],
+  "prefix-and-suffix-search": [
+    "Array",
+    "Trie"
+  ],
+  "min-cost-climbing-stairs": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "largest-number-at-least-twice-of-others": [
+    "Array"
+  ],
+  "shortest-completing-word": [
+    "Array",
+    "HashTable"
+  ],
+  "contain-virus": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "open-the-lock": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "cracking-the-safe": [
+    "Array",
+    "Depth-firstSearch",
+    "Math"
+  ],
+  "reach-a-number": [
+    "Array",
+    "Math"
+  ],
+  "pyramid-transition-matrix": [
+    "Array",
+    "BitManipulation",
+    "Depth-firstSearch"
+  ],
+  "set-intersection-size-at-least-two": [
+    "Array",
+    "Greedy"
+  ],
+  "special-binary-string": [
+    "Array",
+    "Recursion",
+    "String"
+  ],
+  "prime-number-of-set-bits-in-binary-representation": [
+    "Array",
+    "BitManipulation"
+  ],
+  "partition-labels": [
+    "Array",
+    "Greedy",
+    "TwoPointers"
+  ],
+  "largest-plus-sign": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "couples-holding-hands": [
+    "Array",
+    "Graph",
+    "Greedy",
+    "UnionFind"
+  ],
+  "toeplitz-matrix": [
+    "Array"
+  ],
+  "reorganize-string": [
+    "Array",
+    "Greedy",
+    "Heap",
+    "Sort",
+    "String"
+  ],
+  "max-chunks-to-make-sorted-ii": [
+    "Array"
+  ],
+  "max-chunks-to-make-sorted": [
+    "Array"
+  ],
+  "basic-calculator-iv": [
+    "Array",
+    "HashTable",
+    "Stack",
+    "String"
+  ],
+  "jewels-and-stones": [
+    "Array",
+    "HashTable"
+  ],
+  "sliding-puzzle": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "global-and-local-inversions": [
+    "Array",
+    "Math"
+  ],
+  "swap-adjacent-in-lr-string": [
+    "Array",
+    "Brainteaser"
+  ],
+  "swim-in-rising-water": [
+    "Array",
+    "BinarySearch",
+    "Depth-firstSearch",
+    "Heap",
+    "UnionFind"
+  ],
+  "k-th-symbol-in-grammar": [
+    "Array",
+    "Recursion"
+  ],
+  "reaching-points": [
+    "Array",
+    "Math"
+  ],
+  "rabbits-in-forest": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "transform-to-chessboard": [
+    "Array",
+    "Math"
+  ],
+  "minimum-distance-between-bst-nodes": [
+    "Array",
+    "Recursion",
+    "Tree"
+  ],
+  "letter-case-permutation": [
+    "Array",
+    "Backtracking",
+    "BitManipulation"
+  ],
+  "is-graph-bipartite": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Graph"
+  ],
+  "k-th-smallest-prime-fraction": [
+    "Array",
+    "BinarySearch",
+    "Heap"
+  ],
+  "cheapest-flights-within-k-stops": [
+    "Array",
+    "Breadth-firstSearch",
+    "DynamicProgramming",
+    "Heap"
+  ],
+  "rotated-digits": [
+    "Array",
+    "String"
+  ],
+  "escape-the-ghosts": [
+    "Array",
+    "Math"
+  ],
+  "domino-and-tromino-tiling": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "custom-sort-string": [
+    "Array",
+    "String"
+  ],
+  "number-of-matching-subsequences": [
+    "Array"
+  ],
+  "preimage-size-of-factorial-zeroes-function": [
+    "Array",
+    "BinarySearch"
+  ],
+  "valid-tic-tac-toe-state": [
+    "Array",
+    "Math",
+    "Recursion"
+  ],
+  "number-of-subarrays-with-bounded-maximum": [
+    "Array"
+  ],
+  "rotate-string": [
+    "Array"
+  ],
+  "all-paths-from-source-to-target": [
+    "Array"
+  ],
+  "smallest-rotation-with-highest-score": [
+    "Array"
+  ],
+  "champagne-tower": [
+    "Array"
+  ],
+  "minimum-swaps-to-make-sequences-increasing": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "find-eventual-safe-states": [
+    "Array",
+    "Depth-firstSearch",
+    "Graph"
+  ],
+  "bricks-falling-when-hit": [
+    "Array",
+    "UnionFind"
+  ],
+  "unique-morse-code-words": [
+    "Array",
+    "String"
+  ],
+  "split-array-with-same-average": [
+    "Array",
+    "Math"
+  ],
+  "number-of-lines-to-write-string": [
+    "Array"
+  ],
+  "max-increase-to-keep-city-skyline": [
+    "Array"
+  ],
+  "soup-servings": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "expressive-words": [
+    "Array",
+    "String"
+  ],
+  "chalkboard-xor-game": [
+    "Array",
+    "Math"
+  ],
+  "subdomain-visit-count": [
+    "Array",
+    "HashTable"
+  ],
+  "largest-triangle-area": [
+    "Array",
+    "Math"
+  ],
+  "largest-sum-of-averages": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "binary-tree-pruning": [
+    "Array",
+    "Tree"
+  ],
+  "bus-routes": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "ambiguous-coordinates": [
+    "Array",
+    "String"
+  ],
+  "linked-list-components": [
+    "Array",
+    "LinkedList"
+  ],
+  "race-car": [
+    "Array",
+    "DynamicProgramming",
+    "Heap"
+  ],
+  "most-common-word": [
+    "Array",
+    "String"
+  ],
+  "short-encoding-of-words": [
+    "Array"
+  ],
+  "shortest-distance-to-a-character": [
+    "Array"
+  ],
+  "card-flipping-game": [
+    "Array"
+  ],
+  "binary-trees-with-factors": [
+    "Array"
+  ],
+  "goat-latin": [
+    "Array",
+    "String"
+  ],
+  "friends-of-appropriate-ages": [
+    "Array"
+  ],
+  "most-profit-assigning-work": [
+    "Array",
+    "TwoPointers"
+  ],
+  "making-a-large-island": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "unique-letter-string": [
+    "Array",
+    "TwoPointers"
+  ],
+  "consecutive-numbers-sum": [
+    "Array",
+    "Math"
+  ],
+  "positions-of-large-groups": [
+    "Array"
+  ],
+  "masking-personal-information": [
+    "Array",
+    "String"
+  ],
+  "flipping-an-image": [
+    "Array"
+  ],
+  "find-and-replace-in-string": [
+    "Array",
+    "String"
+  ],
+  "sum-of-distances-in-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "image-overlap": [
+    "Array"
+  ],
+  "rectangle-overlap": [
+    "Array",
+    "Math"
+  ],
+  "new-21-game": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "push-dominoes": [
+    "Array",
+    "DynamicProgramming",
+    "TwoPointers"
+  ],
+  "similar-string-groups": [
+    "Array",
+    "Depth-firstSearch",
+    "Graph",
+    "UnionFind"
+  ],
+  "magic-squares-in-grid": [
+    "Array"
+  ],
+  "keys-and-rooms": [
+    "Array",
+    "Depth-firstSearch",
+    "Graph"
+  ],
+  "split-array-into-fibonacci-sequence": [
+    "Array",
+    "Backtracking",
+    "Greedy",
+    "String"
+  ],
+  "guess-the-word": [
+    "Array",
+    "Minimax"
+  ],
+  "backspace-string-compare": [
+    "Array",
+    "Stack",
+    "TwoPointers"
+  ],
+  "longest-mountain-in-array": [
+    "Array",
+    "TwoPointers"
+  ],
+  "hand-of-straights": [
+    "Array",
+    "OrderedMap"
+  ],
+  "shortest-path-visiting-all-nodes": [
+    "Array",
+    "Breadth-firstSearch",
+    "DynamicProgramming"
+  ],
+  "shifting-letters": [
+    "Array",
+    "String"
+  ],
+  "maximize-distance-to-closest-person": [
+    "Array"
+  ],
+  "rectangle-area-ii": [
+    "Array",
+    "LineSweep",
+    "SegmentTree"
+  ],
+  "loud-and-rich": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "peak-index-in-a-mountain-array": [
+    "Array",
+    "BinarySearch"
+  ],
+  "car-fleet": [
+    "Array",
+    "Stack"
+  ],
+  "k-similar-strings": [
+    "Array",
+    "Breadth-firstSearch",
+    "Graph"
+  ],
+  "exam-room": [
+    "Array",
+    "OrderedMap"
+  ],
+  "score-of-parentheses": [
+    "Array",
+    "Stack",
+    "String"
+  ],
+  "minimum-cost-to-hire-k-workers": [
+    "Array",
+    "Heap"
+  ],
+  "mirror-reflection": [
+    "Array",
+    "Math"
+  ],
+  "buddy-strings": [
+    "Array",
+    "String"
+  ],
+  "lemonade-change": [
+    "Array",
+    "Greedy"
+  ],
+  "score-after-flipping-matrix": [
+    "Array",
+    "Greedy"
+  ],
+  "shortest-subarray-with-sum-at-least-k": [
+    "Array",
+    "BinarySearch",
+    "Queue"
+  ],
+  "all-nodes-distance-k-in-binary-tree": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "shortest-path-to-get-all-keys": [
+    "Array",
+    "Breadth-firstSearch",
+    "Heap"
+  ],
+  "smallest-subtree-with-all-the-deepest-nodes": [
+    "Array",
+    "Tree"
+  ],
+  "prime-palindrome": [
+    "Array",
+    "Math"
+  ],
+  "transpose-matrix": [
+    "Array"
+  ],
+  "binary-gap": [
+    "Array",
+    "Math"
+  ],
+  "reordered-power-of-2": [
+    "Array",
+    "Math"
+  ],
+  "advantage-shuffle": [
+    "Array",
+    "Greedy"
+  ],
+  "minimum-number-of-refueling-stops": [
+    "Array",
+    "DynamicProgramming",
+    "Heap"
+  ],
+  "leaf-similar-trees": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "length-of-longest-fibonacci-subsequence": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "walking-robot-simulation": [
+    "Array",
+    "Greedy"
+  ],
+  "koko-eating-bananas": [
+    "Array",
+    "BinarySearch"
+  ],
+  "middle-of-the-linked-list": [
+    "Array",
+    "LinkedList"
+  ],
+  "stone-game": [
+    "Array",
+    "DynamicProgramming",
+    "Math",
+    "Minimax"
+  ],
+  "nth-magical-number": [
+    "Array",
+    "BinarySearch",
+    "Math"
+  ],
+  "profitable-schemes": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "decoded-string-at-index": [
+    "Array",
+    "Stack"
+  ],
+  "boats-to-save-people": [
+    "Array",
+    "Greedy",
+    "TwoPointers"
+  ],
+  "reachable-nodes-in-subdivided-graph": [
+    "Array",
+    "Heap"
+  ],
+  "projection-area-of-3d-shapes": [
+    "Array",
+    "Math"
+  ],
+  "uncommon-words-from-two-sentences": [
+    "Array",
+    "HashTable"
+  ],
+  "spiral-matrix-iii": [
+    "Array",
+    "Math"
+  ],
+  "possible-bipartition": [
+    "Array",
+    "Depth-firstSearch"
+  ],
+  "super-egg-drop": [
+    "Array",
+    "BinarySearch",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "fair-candy-swap": [
+    "Array"
+  ],
+  "construct-binary-tree-from-preorder-and-postorder-traversal": [
+    "Array",
+    "Tree"
+  ],
+  "find-and-replace-pattern": [
+    "Array",
+    "String"
+  ],
+  "sum-of-subsequence-widths": [
+    "Array",
+    "Math"
+  ],
+  "surface-area-of-3d-shapes": [
+    "Array",
+    "Geometry",
+    "Math"
+  ],
+  "groups-of-special-equivalent-strings": [
+    "Array",
+    "String"
+  ],
+  "all-possible-full-binary-trees": [
+    "Array",
+    "Recursion",
+    "Tree"
+  ],
+  "maximum-frequency-stack": [
+    "Array",
+    "HashTable",
+    "Stack"
+  ],
+  "monotonic-array": [
+    "Array"
+  ],
+  "increasing-order-search-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "bitwise-ors-of-subarrays": [
+    "Array",
+    "BitManipulation",
+    "DynamicProgramming"
+  ],
+  "orderly-queue": [
+    "Array",
+    "Math",
+    "String"
+  ],
+  "rle-iterator": [
+    "Array"
+  ],
+  "online-stock-span": [
+    "Array",
+    "Stack"
+  ],
+  "numbers-at-most-n-given-digit-set": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "valid-permutations-for-di-sequence": [
+    "Array",
+    "DivideandConquer",
+    "DynamicProgramming"
+  ],
+  "fruit-into-baskets": [
+    "Array",
+    "TwoPointers"
+  ],
+  "sort-array-by-parity": [
+    "Array"
+  ],
+  "super-palindromes": [
+    "Array",
+    "Math"
+  ],
+  "sum-of-subarray-minimums": [
+    "Array",
+    "Stack"
+  ],
+  "smallest-range-i": [
+    "Array",
+    "Math"
+  ],
+  "snakes-and-ladders": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "smallest-range-ii": [
+    "Array",
+    "Greedy",
+    "Math"
+  ],
+  "online-election": [
+    "Array",
+    "BinarySearch"
+  ],
+  "sort-an-array": [
+    "Array"
+  ],
+  "cat-and-mouse": [
+    "Array",
+    "Breadth-firstSearch",
+    "Minimax"
+  ],
+  "x-of-a-kind-in-a-deck-of-cards": [
+    "Array",
+    "Math"
+  ],
+  "partition-array-into-disjoint-intervals": [
+    "Array"
+  ],
+  "word-subsets": [
+    "Array",
+    "String"
+  ],
+  "reverse-only-letters": [
+    "Array",
+    "String"
+  ],
+  "maximum-sum-circular-subarray": [
+    "Array"
+  ],
+  "complete-binary-tree-inserter": [
+    "Array",
+    "Tree"
+  ],
+  "number-of-music-playlists": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "minimum-add-to-make-parentheses-valid": [
+    "Array",
+    "Greedy",
+    "Stack"
+  ],
+  "sort-array-by-parity-ii": [
+    "Array",
+    "Sort"
+  ],
+  "3sum-with-multiplicity": [
+    "Array",
+    "TwoPointers"
+  ],
+  "minimize-malware-spread": [
+    "Array",
+    "Depth-firstSearch",
+    "UnionFind"
+  ],
+  "long-pressed-name": [
+    "Array",
+    "String",
+    "TwoPointers"
+  ],
+  "flip-string-to-monotone-increasing": [
+    "Array"
+  ],
+  "three-equal-parts": [
+    "Array",
+    "BinarySearch",
+    "Greedy",
+    "Math"
+  ],
+  "minimize-malware-spread-ii": [
+    "Array",
+    "Depth-firstSearch",
+    "Graph",
+    "UnionFind"
+  ],
+  "unique-email-addresses": [
+    "Array",
+    "String"
+  ],
+  "binary-subarrays-with-sum": [
+    "Array",
+    "HashTable",
+    "TwoPointers"
+  ],
+  "minimum-falling-path-sum": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "beautiful-array": [
+    "Array",
+    "DivideandConquer"
+  ],
+  "number-of-recent-calls": [
+    "Array",
+    "Queue"
+  ],
+  "shortest-bridge": [
+    "Array",
+    "Breadth-firstSearch",
+    "Depth-firstSearch"
+  ],
+  "knight-dialer": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "stamping-the-sequence": [
+    "Array",
+    "Greedy",
+    "String"
+  ],
+  "reorder-log-files": [
+    "Array",
+    "String"
+  ],
+  "range-sum-of-bst": [
+    "Array",
+    "Recursion",
+    "Tree"
+  ],
+  "minimum-area-rectangle": [
+    "Array",
+    "HashTable"
+  ],
+  "distinct-subsequences-ii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "valid-mountain-array": [
+    "Array"
+  ],
+  "di-string-match": [
+    "Array",
+    "Math"
+  ],
+  "find-the-shortest-superstring": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "delete-columns-to-make-sorted": [
+    "Array",
+    "Greedy"
+  ],
+  "minimum-increment-to-make-array-unique": [
+    "Array"
+  ],
+  "validate-stack-sequences": [
+    "Array",
+    "Stack"
+  ],
+  "most-stones-removed-with-same-row-or-column": [
+    "Array",
+    "Depth-firstSearch",
+    "UnionFind"
+  ],
+  "bag-of-tokens": [
+    "Array",
+    "Greedy"
+  ],
+  "largest-time-for-given-digits": [
+    "Array",
+    "Math"
+  ],
+  "reveal-cards-in-increasing-order": [
+    "Array"
+  ],
+  "flip-equivalent-binary-trees": [
+    "Array",
+    "Tree"
+  ],
+  "largest-component-size-by-common-factor": [
+    "Array",
+    "Math",
+    "UnionFind"
+  ],
+  "verifying-an-alien-dictionary": [
+    "Array",
+    "HashTable"
+  ],
+  "array-of-doubled-pairs": [
+    "Array",
+    "HashTable"
+  ],
+  "delete-columns-to-make-sorted-ii": [
+    "Array",
+    "Greedy"
+  ],
+  "tallest-billboard": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "prison-cells-after-n-days": [
+    "Array",
+    "HashTable"
+  ],
+  "check-completeness-of-a-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "regions-cut-by-slashes": [
+    "Array",
+    "Depth-firstSearch",
+    "Graph",
+    "UnionFind"
+  ],
+  "delete-columns-to-make-sorted-iii": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "n-repeated-element-in-size-2n-array": [
+    "Array",
+    "HashTable"
+  ],
+  "maximum-width-ramp": [
+    "Array"
+  ],
+  "minimum-area-rectangle-ii": [
+    "Array",
+    "Geometry",
+    "Math"
+  ],
+  "least-operators-to-express-number": [
+    "Array",
+    "DynamicProgramming",
+    "Math"
+  ],
+  "univalued-binary-tree": [
+    "Array",
+    "Tree"
+  ],
+  "vowel-spellchecker": [
+    "Array",
+    "HashTable",
+    "String"
+  ],
+  "numbers-with-same-consecutive-differences": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "binary-tree-cameras": [
+    "Array",
+    "Depth-firstSearch",
+    "DynamicProgramming",
+    "Tree"
+  ],
+  "pancake-sorting": [
+    "Array",
+    "Sort"
+  ],
+  "powerful-integers": [
+    "Array",
+    "HashTable",
+    "Math"
+  ],
+  "flip-binary-tree-to-match-preorder-traversal": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "equal-rational-numbers": [
+    "Array",
+    "Math"
+  ],
+  "k-closest-points-to-origin": [
+    "Array",
+    "DivideandConquer",
+    "Heap",
+    "Sort"
+  ],
+  "subarray-sums-divisible-by-k": [
+    "Array",
+    "HashTable"
+  ],
+  "odd-even-jump": [
+    "Array",
+    "DynamicProgramming",
+    "OrderedMap",
+    "Stack"
+  ],
+  "largest-perimeter-triangle": [
+    "Array",
+    "Math",
+    "Sort"
+  ],
+  "squares-of-a-sorted-array": [
+    "Array",
+    "TwoPointers"
+  ],
+  "longest-turbulent-subarray": [
+    "Array",
+    "DynamicProgramming",
+    "SlidingWindow"
+  ],
+  "distribute-coins-in-binary-tree": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "unique-paths-iii": [
+    "Array",
+    "Backtracking",
+    "Depth-firstSearch"
+  ],
+  "time-based-key-value-store": [
+    "Array",
+    "BinarySearch",
+    "HashTable"
+  ],
+  "triples-with-bitwise-and-equal-to-zero": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "minimum-cost-for-tickets": [
+    "Array",
+    "DynamicProgramming"
+  ],
+  "string-without-aaa-or-bbb": [
+    "Array",
+    "Greedy"
+  ],
+  "sum-of-even-numbers-after-queries": [
+    "Array"
+  ],
+  "interval-list-intersections": [
+    "Array",
+    "TwoPointers"
+  ],
+  "vertical-order-traversal-of-a-binary-tree": [
+    "Array",
+    "HashTable",
+    "Tree"
+  ],
+  "smallest-string-starting-from-leaf": [
+    "Array",
+    "Depth-firstSearch",
+    "Tree"
+  ],
+  "add-to-array-form-of-integer": [
+    "Array"
+  ],
+  "satisfiability-of-equality-equations": [
+    "Array",
+    "Graph",
+    "UnionFind"
+  ],
+  "broken-calculator": [
+    "Array",
+    "Greedy",
+    "Math"
+  ],
+  "subarrays-with-k-different-integers": [
+    "Array",
+    "HashTable",
+    "SlidingWindow",
+    "TwoPointers"
+  ],
+  "cousins-in-binary-tree": [
+    "Array",
+    "Breadth-firstSearch",
+    "Tree"
+  ],
+  "rotting-oranges": [
+    "Array",
+    "Breadth-firstSearch"
+  ],
+  "minimum-number-of-k-consecutive-bit-flips": [
+    "Array",
+    "Greedy",
+    "SlidingWindow"
+  ],
+  "number-of-squareful-arrays": [
+    "Array",
+    "Backtracking",
+    "Graph",
+    "Math"
+  ],
+  "find-the-town-judge": [
+    "Array",
+    "Graph"
+  ],
+  "maximum-binary-tree-ii": [
+    "Array",
+    "Tree"
+  ],
+  "available-captures-for-rook": [
+    "Array"
+  ],
+  "regular-expression-matching": [
+    "Backtracking",
+    "DynamicProgramming",
+    "String"
+  ],
+  "letter-combinations-of-a-phone-number": [
+    "Backtracking",
+    "String"
+  ],
+  "generate-parentheses": [
+    "Backtracking",
+    "String"
+  ],
+  "sudoku-solver": [
+    "Backtracking",
+    "HashTable"
+  ],
+  "divide-two-integers": [
+    "BinarySearch",
+    "Math"
+  ],
+  "merge-k-sorted-lists": [
+    "DivideandConquer",
+    "Heap",
+    "LinkedList"
+  ],
+  "longest-palindromic-substring": [
+    "DynamicProgramming",
+    "String"
+  ],
+  "longest-substring-without-repeating-characters": [
+    "HashTable",
+    "SlidingWindow",
+    "String",
+    "TwoPointers"
+  ],
+  "substring-with-concatenation-of-all-words": [
+    "HashTable",
+    "String",
+    "TwoPointers"
+  ],
+  "valid-sudoku": [
+    "HashTable"
+  ],
+  "add-two-numbers": [
+    "LinkedList",
+    "Math"
+  ],
+  "remove-nth-node-from-end-of-list": [
+    "LinkedList",
+    "TwoPointers"
+  ],
+  "merge-two-sorted-lists": [
+    "LinkedList"
+  ],
+  "swap-nodes-in-pairs": [
+    "LinkedList"
+  ],
+  "reverse-nodes-in-k-group": [
+    "LinkedList"
+  ],
+  "reverse-integer": [
+    "Math"
+  ],
+  "string-to-integer-atoi": [
+    "Math",
+    "String"
+  ],
+  "palindrome-number": [
+    "Math"
+  ],
+  "integer-to-roman": [
+    "Math",
+    "String"
+  ],
+  "roman-to-integer": [
+    "Math",
+    "String"
+  ],
+  "multiply-strings": [
+    "Math",
+    "String"
+  ],
+  "valid-parentheses": [
+    "Stack",
+    "String"
+  ],
+  "zigzag-conversion": [
+    "String"
+  ],
+  "longest-common-prefix": [
+    "String"
+  ],
+  "implement-strstr": [
+    "String",
+    "TwoPointers"
+  ]
+}
