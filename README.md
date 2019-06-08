@@ -21,12 +21,8 @@ For the demo, please use the "DEMO_TO_RUN.ipynb".
 
 ## Dataset
 Leetcode website 
-|
-+---Difficuities---+
-|
-+---   Tags     ---+
-|
-+---  Companies ---+
+
+
 ## File Structure
 
 master branch
