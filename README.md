@@ -1,4 +1,7 @@
 # Final Project of ECE143 -Analysis on Jobs and Leetcode questions (Group 14)
+## Team Members
+Shreya Ganesaraman, Zeyuan Li, Meihua Su, and Zhongke Ma
+## Getting Started
 This project contains both getting data from leetcode and analysis.
 For the demo, please use the "DEMO_TO_RUN.ipynb".
 
