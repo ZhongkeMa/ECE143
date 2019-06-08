@@ -20,7 +20,13 @@ For the demo, please use the "DEMO_TO_RUN.ipynb".
 - Do I have enough knowledge for this company?
 
 ## Dataset
-
+Leetcode website 
+|
++---Difficuities---+
+|
++---   Tags     ---+
+|
++---  Companies ---+
 ## File Structure
 
 master branch
