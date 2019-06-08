@@ -1,0 +1,65 @@
+class Solution {
+    public boolean isNumber(String s) {
+        String strTrim = s.trim();
+        int currentPos = 0;
+        int sign = 1;
+        if(strTrim.length() == 0){
+            return false;
+        }
+        if(strTrim.charAt(0) == '+' || strTrim.charAt(0) == '-'){
+            currentPos = 1;
+            if(strTrim.charAt(0) == '-'){
+                sign = -1;
+            }
+        }
+        int eflag = 0;
+        int dotflag = 0;
+        for(int i=currentPos;i<strTrim.length();i++){
+            if(Character.isLetter(strTrim.charAt(i))){
+                if(strTrim.charAt(i) == 'e' && i!=currentPos && i!=strTrim.length()-1 && eflag!=1){
+                    eflag = 1;
+                    continue;
+                } else{
+                    return false;
+                }
+            }
+            else if((strTrim.charAt(i) == '-' || strTrim.charAt(i) == '+') && i!=currentPos && i!=strTrim.length()-1){
+                if(strTrim.charAt(i-1) == 'e'){
+                    continue;
+                } else{
+                    return false;
+                }
+            }
+            else if(strTrim.charAt(i) == '.' && i!=currentPos && i!=strTrim.length()-1  && dotflag!=1 && eflag!=1){
+                 if(Character.isDigit(strTrim.charAt(i-1)) && (Character.isDigit(strTrim.charAt(i+1)) || strTrim.charAt(i+1) == 'e')){
+                    dotflag = 1;
+                    continue;
+                } else{
+                    return false;
+                }
+            } else if(strTrim.charAt(i) == '.' && i==currentPos && dotflag!=1 && eflag!=1){
+                   if(i+1 < strTrim.length() && Character.isDigit(strTrim.charAt(i+1))){
+                        dotflag = 1;
+                        continue;
+                    } else{
+                        return false;
+                    }
+                }
+            else if(strTrim.charAt(i) == '.' && i==strTrim.length()-1 && dotflag!=1 && eflag!=1){
+                if(Character.isDigit(strTrim.charAt(i-1))){
+                    dotflag = 1;
+                    continue;
+                } else{
+                    return false;
+                }
+            }
+            else if(Character.isDigit(strTrim.charAt(i))){
+                continue;
+            } else{
+                return false;
+            }
+        }
+        return true;
+        
+    }
+}

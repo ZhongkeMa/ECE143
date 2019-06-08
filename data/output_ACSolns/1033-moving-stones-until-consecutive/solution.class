@@ -1,0 +1,37 @@
+class Solution {
+public:
+    vector<int> numMovesStones(int a, int b, int c) {
+        vector<int> res;
+        vector<int> holder = {a,b,c};
+        sort(holder.begin(), holder.end());
+        int maxer = holder[2];
+        int miner = holder[0];
+        int mider = holder[1];
+        int max_steps = 0;
+        int min_steps = 0; 
+        if(mider - miner > 2 && maxer - mider > 2)
+            min_steps = 2;
+        
+        else if((mider - miner == 2 && maxer - mider == 2) || (mider - miner == 1 && maxer - mider > 1) || (mider - miner > 1 && maxer - mider == 1) || (mider - miner == 2 && maxer - mider > 2) || (mider - miner > 2 && maxer - mider == 2))
+            min_steps = 1;
+        else if(mider - miner == 1 && maxer - mider == 1)
+            min_steps = 0;
+        while(miner + 1 != mider || mider + 1 != maxer) {
+            if(miner + 1 < mider) {
+                miner++;
+                max_steps++;                
+            }
+            if(mider+1 < maxer) {
+                maxer--;
+                max_steps++;
+            }
+        }
+        //cout << max_steps;
+        res.push_back(min_steps);
+        res.push_back(max_steps);
+        return res;        
+            
+
+        
+    }
+};
