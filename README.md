@@ -19,6 +19,35 @@ For the demo, please use the "DEMO_TO_RUN.ipynb".
 
 ## Dataset
 
+## File Structure
+
+master branch
+|
++----DEMO_TO_RUN.ipynb
+|
++----DEMO_TO_RUN.py
+|
++----Presentation.pdf
+|
++----code
+|       |   1. Data Extraction.ipynb
+|       |   2. Dictionary JSON Generators.ipynb
+|       |   3. Dataframe Generators.ipynb
+|       |   4. Plot Problems against tags.ipynb
+|       |   5. Plot problem nums of different companies.ipynb
+|	|   6. Plot wordcloud.ipynb
+|	|   7. Plot world map of jobs.ipynb
+|	|   Plot_Difficulty_Of_Different_Companies.py
+|	|   Plot_Pie_Chart.py
+|	|   Plot_problem_nums_of_different_company.py
+|	|   Plot_WC.py
+|	|   Plot_Work_Distribution.py
++
+|    data
+|	|   company_folder
+|	|   output_ACSolns
+|	|   output_ALLQus     
+
 ## Instructions on running the code
 Python version-> Python 3.5 or later
 
