@@ -6,7 +6,7 @@ Shreya Ganesaraman
 Zeyuan Li
 
 
-Meihua Su 
+Meihua Su: mes072@eng.ucsd.edu
 
 
 Zhongke Ma: z2ma@eng.ucsd.edu
