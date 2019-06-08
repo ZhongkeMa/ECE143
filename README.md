@@ -110,4 +110,5 @@ Python version-> Python 3.5 or later
 
 1. The `DEMO_TO_RUN` contains analysis codes which using the files under `output_AllQus`, `output_ACSolns` and `company_folder`.
 To run the code, please have the folders and file ready.
-2. It contains "Bar Chart", "Pie Chart", "Word Cloud", "US MAP of Job Distribution" (with the html page generation)
+2. Run the `DEMO_TO_RUN`. It contains "Number of Problems on LeetCode from different companies", "Pie Charts for Difficulties of The Problems In different companies", "Word Cloud", "US MAP of Job Distribution" (with the html page generation)
+3. Run
