@@ -108,7 +108,6 @@ Python version-> Python 3.5 or later
 
 ### How to DEMO
 
-1. The `DEMO_TO_RUN` contains analysis codes which using the files under `output_AllQus`, `output_ACSolns` and `company_folder`.
+1. The `DEMO_TO_RUN.ipynb` contains analysis codes which using the files under `output_AllQus`, `output_ACSolns` and `company_folder`.
 To run the code, please have the folders and file ready.
-2. Run the `DEMO_TO_RUN`. It contains "Number of Problems on LeetCode from different companies", "Pie Charts for Difficulties of The Problems In different companies", "Word Cloud", "US MAP of Job Distribution" (with the html page generation)
-3. Run
+2. Run the `DEMO_TO_RUN.ipynb` or `DEMO_TO_RUN.py`. It contains "Number of Problems on LeetCode from different companies", "Pie Charts for Difficulties of The Problems In different companies", "Word Cloud", "US MAP of Job Distribution" (with the html page generation) ,and "Bar plot of difficulty for different company".
