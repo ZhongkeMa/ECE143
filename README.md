@@ -22,7 +22,11 @@ For the demo, please use the "DEMO_TO_RUN.ipynb".
 ## Dataset
 Leetcode website 
 
+| 
 
++---Difficuities---+
+
+|
 ## File Structure
 
 master branch
