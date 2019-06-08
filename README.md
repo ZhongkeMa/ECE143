@@ -51,19 +51,13 @@ Python version-> Python 3.5 or later
 10.  seaborn 
 
 
-12. import plotly
+11. plotly
 
 
-13. import geopandas as gpd
+12.  geopandas
 
 
-14. from shapely.geometry import Point, Polygon
-
-
-15. import plotly.plotly as py
-
-
-16. import plotly.graph_objs as go
+13. shapely.geometry 
 
 
 ***********************DEMO*************************
