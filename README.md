@@ -3,7 +3,7 @@
 Shreya Ganesaraman
 
 
-Zeyuan Li
+Zeyuan Li: lzeyuan@ucsd.edu
 
 
 Meihua Su: mes072@eng.ucsd.edu
