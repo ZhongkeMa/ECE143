@@ -16,6 +16,8 @@ This project contains both getting data from leetcode and analysis.
 For the demo, please use the "DEMO_TO_RUN.ipynb".
 
 ## Problem
+- Which type of question is more likely to occur?
+- Do I have enough knowledge for this company?
 
 ## Dataset
 
