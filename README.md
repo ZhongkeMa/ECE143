@@ -1,6 +1,6 @@
 # Final Project of ECE143 -Analysis on Jobs and Leetcode questions (Group 14)
 ## Team Members
-Shreya Ganesaraman
+Shreya Ganesaraman: sganesar@eng.ucsd.edu
 
 
 Zeyuan Li: lzeyuan@ucsd.edu
@@ -114,8 +114,10 @@ Python version-> Python 3.5 or later
 13. shapely.geometry 
 
 
+14. holoviews 
+
+
 ### How to DEMO
 
-1. The `DEMO_TO_RUN.ipynb` contains analysis codes which using the files under `output_AllQus`, `output_ACSolns` and `company_folder`.
-To run the code, please have the folders and file ready.
-2. Run the `DEMO_TO_RUN.ipynb` or `DEMO_TO_RUN.py`. It contains "Number of Problems on LeetCode from different companies", "Pie Charts for Difficulties of The Problems In different companies", "Word Cloud", "US MAP of Job Distribution" (with the html page generation) ,and "Bar plot of difficulty for different company".
+1. The `DEMO_TO_RUN.ipynb` contains analysis codes which exhibit dependencies on the files under `data` and its subdirectories namely `output_AllQus`, `output_ACSolns`, and `company_folder`.
+2. Run the `DEMO_TO_RUN.ipynb` or `DEMO_TO_RUN.py`. It contains "Number of Problems on LeetCode from different companies", "Pie Charts for Difficulties of The Problems In different companies", "Word Cloud", "US MAP of Job Distribution" (with the html page generation), "Bar plot of difficulty for different company", and "Plot of problems from each topic tag solved by user for a given company".
